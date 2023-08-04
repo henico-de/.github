@@ -62,12 +62,14 @@ e.g. NodeJS version, Angular version, etc.
 - [ ] 👍 yes
 - [ ] 🙅 no, because they aren't needed
 - [ ] 🙋 no, because I need help
+- [ ] 💬 to be discussed
 
 #### Added to documentation ?
 
 - [ ] 📜 [README.md](https://github.com/NAME/.github/blob/master/README.md)
 - [ ] 📓 Confluence
 - [ ] 🙅 no documentation needed
+- [ ] 💬 to be discussed
 
 <!-- - [ ] 📕 [Storybook](https://storybook.js.org/) -->
 
